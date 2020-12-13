@@ -6,6 +6,7 @@
 PROFESSIONAL PROFILE
 </p>
 </b>
+<h1></h1>
 </div>
 
 <div>
@@ -17,6 +18,12 @@ A well-rounded full stack software developer and designer skilled at front-end d
 <div>
 <p>
 Core Competencies
+</p>
+</div>
+
+<div>
+<p>
+Web Design | Full Stack| User Interface (UX/UI) | Communications | Client Relationship Management | Programming | Logo Design | Graphic Design | Project Management
 </p>
 </div>
 
