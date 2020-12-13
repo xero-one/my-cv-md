@@ -15,17 +15,46 @@ A well-rounded full stack software developer and designer skilled at front-end d
 </p>
 </div>
 
+
 <div>
 <p>
 Core Competencies
 </p>
-</div>
-
-<div>
 <p>
 Web Design | Full Stack| User Interface (UX/UI) | Communications | Client Relationship Management | Programming | Logo Design | Graphic Design | Project Management
 </p>
 </div>
 
+<div>
+<p>
+Programming Skills
+</p>
+<ul>
+<li>
+JavaScript (Webpack, Babel, jQuery, vanilla JavaScript)
+</li>
+<li>
+Python
+</li>
+<li>
+HTML
+</li>
+<li>
+CSS
+</li>
+<li>
+SQL (MySQL, MSQL)  
+</li>
+<li>
+BASH (Bourne Again Shell)  
+</li>
+<li>
+M.E.R.N. (Mongo.js, Express.js, React.js, Node.js)
+</li>
+<li>
+Java (minimal)
+</li>
+</ul>
+</div>
 
 </div>
