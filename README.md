@@ -239,4 +239,23 @@
             </li>
         </ul>
     </div>
+    <br>
+    <div>
+        <div align="center">
+            <b>
+                <p/>
+                PROFESSIONAL PROJECTS
+                </p>
+            </b>
+            <h1></h1>
+        </div>
+        <div>
+            <b><p>Continuing Education</p></b>
+            <p><i>Udemy Certificate of Completion July 2020</i> - Bash Shell Scripting</p>
+            <b><p>Other Passions</p></b>
+            <p><i>Art and Digital Design</i> - I draw and design clothing (t-shirts, hats, athletic and casual wear) when not coding or servicing clients</p>
+            <p><i>Audio Engineering and Audio Design</i> - I produce and design audio on my spare time (active since my high school years… maybe someday I’ll get published)</p>
+            <p><i>Video Production</i> - Occasionally I make videos and upload them to my YouTube Channels</p>
+        </div>
+    </div>
 </div>
