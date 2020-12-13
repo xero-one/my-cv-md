@@ -1,6 +1,7 @@
 <div>
     <div class="professional-profile-section">
         <div align="center">
+            <h1></h1>
             <b>
                 <p/>
                 PROFESSIONAL PROFILE
