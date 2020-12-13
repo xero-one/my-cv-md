@@ -1,7 +1,6 @@
 <div>
     <div class="professional-profile-section">
         <div align="center">
-            <h1></h1>
             <b>
                 <p/>
                 PROFESSIONAL PROFILE
@@ -110,7 +109,7 @@
             </li>
             <li>
                 <h4>
-                    Worked with a clientele base of 50+ people providing quality service 5days out the week
+                    Worked with a clientele base of 50+ people providing quality service 5 days out the week
                 </h4>
             </li>
             <li>
@@ -118,10 +117,8 @@
                     In my freelance work I improved the delivery rate of completing projects 50% sooner compared to competitors without sacrificing quality
                 </h4>
             </li>
-        </ul>                           
-        <p>
-            Education
-        </p>
+        </ul>
+        <b><p>EDUCATION</p></b>
         <b><p>Certificate in Full Stack Coding, Rutgers University, 2019</p></b>
         <ul>
             <li>
