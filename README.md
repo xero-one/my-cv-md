@@ -179,7 +179,7 @@
             </b>
             <h1></h1>
         </div>
-        <b><p>Dream Lens (<a href="http://KellisInvestmentgroup.com">kellisInvestmentgroup.com</a>)[under construction]</p></b>
+        <b><p>Kellis Investments Group (<a href="http://KellisInvestmentgroup.com">kellisInvestmentgroup.com</a>)[under construction]</p></b>
         <p>
             Kellis Investments Group needed a professional website to increase its
             presence and needed a digital solution to facilitate conversion of sales. They
