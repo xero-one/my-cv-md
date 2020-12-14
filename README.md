@@ -2,7 +2,7 @@
     <div align="right">
         <p align="right"><img src="https://raw.githubusercontent.com/xero-one/my-cv-md/main/assets/my-name-svg.svg?token=ANCH2N47WHCGFIKUG5VNXCS727MKC" width="40%"></p>
         <p>
-            coding_professional@yahoo.com
+            <a href="coding_professional@yahoo.com">coding_professional@yahoo.com</a>
             <br/>
             551-999-1634
             <br/>
@@ -11,6 +11,7 @@
             <a href="https://www.github.com/xero-one">GitHub</a> | <a href="https://www.linkedin.com/in/chadgresham">LinkedIn</a>
         </p>
     </div>
+    <br>
     <div class="professional-profile-section">
         <div align="center">
             <b>
