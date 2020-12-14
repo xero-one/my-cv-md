@@ -1,10 +1,11 @@
 <div>
-<p align="right"><img src="https://raw.githubusercontent.com/xero-one/my-cv-md/main/assets/my-name-svg.svg?token=ANCH2N422E75Z573566VO3S727I2K" width="40%"></p>
-
-coding_professional@yahoo.com 
-551-999-1634  
-New York, NY  
-[Github](github.com/xero-one) | [LinkedIn](linkedin.com/in/chadgresham/)
+    <div align="right">
+        <p align="right"><img src="https://raw.githubusercontent.com/xero-one/my-cv-md/main/assets/my-name-svg.svg?token=ANCH2N422E75Z573566VO3S727I2K" width="40%"></p>
+        <p>coding_professional@yahoo.com <p>
+        <p>551-999-1634</p>
+        <p>New York, NY</p>
+        [Github](github.com/xero-one) | [LinkedIn](linkedin.com/in/chadgresham/)
+    </div>
     <div class="professional-profile-section">
         <div align="center">
             <b>
