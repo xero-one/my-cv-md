@@ -1,4 +1,10 @@
 <div>
+[<p align="right"><img src="" width="40%"></p>](Link)
+
+coding_professional@yahoo.com 
+551-999-1634  
+New York, NY  
+[Github](github.com/xero-one) | [LinkedIn](linkedin.com/in/chadgresham/)
     <div class="professional-profile-section">
         <div align="center">
             <b>
@@ -15,7 +21,9 @@
         </div>
         <div>
             <p>
-                Core Competencies
+                <i>
+                    Core Competencies
+                </i>
             </p>
             <p>
                 Web Design | Full Stack| User Interface (UX/UI) | Communications | Client Relationship Management | Programming | Logo Design | Graphic Design | Project Management
@@ -23,7 +31,9 @@
         </div>
         <div>
             <p>
-                Programming Skills
+                <i>
+                    Programming Skills
+                </i>
             </p>
             <ul>
                 <li>
@@ -240,11 +250,11 @@
         </ul>
     </div>
     <br>
-    <div>
+    <div class="activities-section">
         <div align="center">
             <b>
                 <p/>
-                PROFESSIONAL PROJECTS
+                    ACTIVITIES
                 </p>
             </b>
             <h1></h1>
