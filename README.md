@@ -1,6 +1,6 @@
 <div>
     <div align="right">
-        <p align="right"><img src="https://raw.githubusercontent.com/xero-one/my-cv-md/main/assets/my-name-svg.svg?token=ANCH2N5W7YYVZB56HAZEN52727N2Q" width="40%"></p>
+        <p align="right"><img src="https://raw.githubusercontent.com/xero-one/my-cv-md/main/assets/my-name-svg.svg?token=ANCH2NZAV2PCQILTCG7AIDS73K7JY" width="40%"></p>
         <p>
             <a href="coding_professional@yahoo.com">coding_professional@yahoo.com</a>
             <br/>
