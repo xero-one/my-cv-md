@@ -133,6 +133,35 @@
                 </h4>
             </li>
         </ul>
+         <b><p>July 2015 – July 2018</p></b>
+        <b><p>Laboratory Technologists, QDx Pathology Service</p></b>
+        <ul>
+            <li>
+                <h4>
+                    Consistently performed all expected tests and analytical procedures for assigned department or work area efficiently and accurately, maintained proper medical laboratory standard procedures, performance standards, and departmental competency standards of the Tri-State area
+                </h4>
+            </li>
+            <li>
+                <h4>
+                    Experience operating and troubleshooting molecular testing software as well as experience operating Molecular testing machines
+                </h4>
+            </li>
+            <li>
+                <h4>
+                    Ability to determine methods and procedures on new assignments demonstrating great adaptability and willingness to learn.
+                </h4>
+            </li>
+            <li>
+                <h4>
+                    Wide latitude for independent judgment and great ability to work as part of a team
+                </h4>
+            </li>
+            <li>
+                <h4>
+                   3 years of hands-on medical laboratory experience
+                </h4>
+            </li>
+        </ul>
         <b><p>EDUCATION</p></b>
         <b><p>Certificate in Full Stack Coding, Rutgers University, 2019</p></b>
         <ul>
