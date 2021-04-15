@@ -63,7 +63,7 @@
                     BASH (Bourne Again Shell)  
                 </li>
                 <li>
-                    M.E.R.N. (Mongo.js, Express.js, React.js, Node.js)
+                    M.E.R.N. (Mongo.js, Express.js, React.js [with or without Next.js], Node.js)
                 </li>
                 <li>
                     Java (minimal)
