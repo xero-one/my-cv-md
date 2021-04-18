@@ -57,7 +57,7 @@
                     CSS
                 </li>
                 <li>
-                    SQL (MySQL, MSQL)  
+                    SQL (MySQL, MSQL, PostgrsSQL)  
                 </li>
                 <li>
                     BASH (Bourne Again Shell)  
