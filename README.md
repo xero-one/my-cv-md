@@ -57,13 +57,14 @@
                     CSS
                 </li>
                 <li>
-                    SQL (MySQL, MSQL, PostgreSQL)  
+                    SQL (MySQL, PostgreSQL, MSQL)  
                 </li>
                 <li>
                     BASH (Bourne Again Shell)  
                 </li>
                 <li>
                     M.E.R.N. (Mongo.js, Express.js, React.js [with or without Next.js], Node.js)
+                    P.E.R.N. (PostgreSQL, Express.js, React.js [with or without Next.js], Node.js)
                 </li>
                 <li>
                     Java (minimal)
