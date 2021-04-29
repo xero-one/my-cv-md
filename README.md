@@ -66,7 +66,13 @@
                     M.E.R.N. (Mongo.js, Express.js, React.js [with or without Next.js], Node.js)
                 </li>
                 <li>
+                    M.E.A.N. (Mongo.js, Express.js, Angular, Node.js)
+                </li>
+                <li>
                     P.E.R.N. (PostgreSQL, Express.js, React.js [with or without Next.js], Node.js)
+                </li>
+                <li>
+                    P.E.A.N. (PostgreSQL, Express.js, Angular, Node.js)
                 </li>
                 <li>
                     Java (minimal)
