@@ -63,16 +63,16 @@
                     BASH (Bourne Again Shell)  
                 </li>
                 <li>
-                    M.E.R.N. (Mongo.js, Express.js, React.js [with or without Next.js], Node.js)
+                    M.E.R.N. (Mongo.js, Express.js, React.js [with or without Next.js], Node.js) application architecture
                 </li>
                 <li>
-                    M.E.A.N. (Mongo.js, Express.js, Angular, Node.js)
+                    M.E.A.N. (Mongo.js, Express.js, Angular, Node.js) application architecture
                 </li>
                 <li>
-                    P.E.R.N. (PostgreSQL, Express.js, React.js [with or without Next.js], Node.js)
+                    P.E.R.N. (PostgreSQL, Express.js, React.js [with or without Next.js], Node.js) application architecture
                 </li>
                 <li>
-                    P.E.A.N. (PostgreSQL, Express.js, Angular, Node.js)
+                    P.E.A.N. (PostgreSQL, Express.js, Angular, Node.js) application architecture
                 </li>
                 <li>
                     Java (minimal)
