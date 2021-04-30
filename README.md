@@ -45,10 +45,13 @@
             </p>
             <ul>
                 <li>
-                    JavaScript (Webpack, Babel, jQuery, vanilla JavaScript)
+                    JavaScript (Webpack, Babel, jQuery, vanilla JavaScript and Functional Oriented)
                 </li>
                 <li>
-                    Python
+                    TypeScript (Type Checking, Object Shaping, and Object Oriented)
+                </li>
+                <li>
+                    Python (Functional Oriented or Object Oriented)
                 </li>
                 <li>
                     HTML
