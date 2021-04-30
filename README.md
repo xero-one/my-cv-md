@@ -34,7 +34,7 @@
                 </i>
             </p>
             <p>
-                Web Design | Full Stack| User Interface (UX/UI) | Communications | Client Relationship Management | Programming | Logo Design | Graphic Design | Project Management
+                Web Design | Full Stack | User Interface (UX/UI) | Communications | Client Relationship Management | Programming | Logo Design | Graphic Design | Project Management
             </p>
         </div>
         <div>
