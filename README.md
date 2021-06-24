@@ -94,6 +94,10 @@
             <h1></h1>
         </div>
         <b><p>PRESENT</p></b>
+        <b><p>June 2021</p></b>
+        <b><p>Back End Web Engineer</p></b>
+        <b><p>24G – Troy, MI</p></b>
+  
         <b><p>April 2021 - June 2021</p></b>
         <b><p>Full Stack Developer and Graphic Designer (Intern)</p></b>
         <b><p>Book Studios LLC – New York, NY</p></b>
