@@ -135,7 +135,8 @@ with team
             </li>
         </ul>
         <b><p>September 2020 - March 2021</p></b>
-        <b><p>Independent Freelance Full Stack Developer and Designer, Kellis Investments Group LLC</p></b>
+        <b><p>Independent Freelance Full Stack Developer and Designer</p></b>
+        <b><p>Kellis Investments Group LLC - Hackensack, NJ</p></b>
         <ul>
             <li>
                 <h4>
@@ -151,7 +152,8 @@ with team
             </li>
         </ul>
         <b><p>April 2020 – August 2020</p></b>
-        <b><p>Independent Freelance Full Stack Developer and Designer, Dream Lens LLC</p></b>
+        <b><p>Independent Freelance Full Stack Developer and Designer</p></b>
+        <b><p>Dream Lens LLC - Houston, TX</p></b>
         <ul>
             <li>
                 <h4>
@@ -185,8 +187,9 @@ with team
                 </h4>
             </li>
         </ul>
-         <b><p>July 2015 – July 2018</p></b>
-        <b><p>Laboratory Technologists, QDx Pathology Service</p></b>
+        <b><p>July 2015 – July 2018</p></b>
+        <b><p>Laboratory Technologists</p></b>
+        <b><p>QDx Pathology Service - Cranford, NJ</p></b>
         <ul>
             <li>
                 <h4>
