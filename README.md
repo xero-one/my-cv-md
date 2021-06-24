@@ -94,7 +94,47 @@
             <h1></h1>
         </div>
         <b><p>PRESENT</p></b>
-        <b><p>September 2020</p></b>
+        <b><p>April 2021 - June 2021</p></b>
+        <b><p>Full Stack Developer and Graphic Designer (Intern)</p></b>
+        <b><p>Book Studios LLC – New York, NY</p></b>
+        <ul>
+            <li>
+                <h4>
+                    Assisted in various tasks ranging from front-end to back-end web engineering operations in a professional team setting.
+                </h4>
+                <ul>
+                    <li>
+                        <div>
+                            Built several algorithms, that dynamically render HTML elements on the Frontend with elements using JavaScript.
+                        </div>
+                    </li>
+                    <li>
+                        <div>
+                            Worked on debugging errors in original “Client” code base such as controlling forms.
+                        </div>
+                    </li>
+                    <li>
+                        <div>
+                            Assisted in creating queries through asynchronous requests to CREATE, READ, UPDATE operations to
+a PostgreSQL database.
+                        </div>
+                    </li>
+                    <li>
+                        <div>
+                            Able to run a test environment by remotely connecting to PostgreSQL database using Microsoft
+Azure Data Studio as well as writing test queries in Data Studio or the CLI
+                        </div>
+                    </li>
+                    <li>
+                        <div>
+                            Coordination and management of tasks through JIRA as well as maintaining great communication
+with team
+                        </div>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+        <b><p>September 2020 - March 2021</p></b>
         <b><p>Independent Freelance Full Stack Developer and Designer, Kellis Investments Group LLC</p></b>
         <ul>
             <li>
