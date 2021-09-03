@@ -97,6 +97,30 @@
         <b><p>July 2021</p></b>
         <b><p>Full Stack Nodejs Tutor and Mentor</p></b>
         <b><p>Galvanize LLC - Denver, CO</p></b>
+        <ul>
+            <li>
+                <h4>
+                    Tutored and mentored students for Galvanize Hack Reactor an Immersive Coding program.
+                </h4>
+                <ul>
+                    <li>
+                        <div>
+                            Tutored two mentees/students a month remotely, assisting students in grasping intermediate JavaScript principles as well as Node.js development principles all while maintaining weekly contact with mentees/students
+                        </div>
+                    </li>
+                    <li>
+                        <div>
+                            Responsible for working with course syllabus, study guides, assessments, and other additional documents that assist in the student’s academic success
+                        </div>
+                    </li>
+                    <li>
+                        <div>
+                            Continuously enhance and improving the support and services provided
+                        </div>
+                    </li>
+                </ul>
+            </li>
+        </ul>
         <b><p>April 2021 - June 2021</p></b>
         <b><p>Full Stack Developer and Graphic Designer (Intern)</p></b>
         <b><p>Book Studios LLC – New York, NY</p></b>
