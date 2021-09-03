@@ -96,7 +96,7 @@
         <b><p>PRESENT</p></b>
         <b><p>July 2021</p></b>
         <b><p>Full Stack Nodejs Tutor and Mentor</p></b>
-        <b><p>Galvanize LLC - DenverCO</p></b>
+        <b><p>Galvanize LLC - Denver, CO</p></b>
         <b><p>April 2021 - June 2021</p></b>
         <b><p>Full Stack Developer and Graphic Designer (Intern)</p></b>
         <b><p>Book Studios LLC – New York, NY</p></b>
